@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(91, 150, 130);
 }
 .footer {
     left: 0;
@@ -12,6 +12,10 @@ body{
 }
 img {
     border-radius: 0.5cm;
-    height: 550px;
-    width: 550px;
+    height: 660px;
+    width: 800px;
+}
+.jumbotron h1, p{
+    text-align: center;
+
 }
