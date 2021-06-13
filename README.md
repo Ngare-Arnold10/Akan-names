@@ -21,6 +21,6 @@ https://github.com/Ngare-Arnold10/Akan-names.git
 1. Javascript
 1. BOOTSTRAP
 ### Live Site
-View [Live] ()
+View [Live] (https://ngare-arnold10.github.io/Akan-names/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
