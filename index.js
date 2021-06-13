@@ -11,6 +11,19 @@ function getDetails(){
     if (month < 1 || month > 12) {
         alert("invalid month");
     }
+    if (year < 1900 || year > 2029) {
+        alert("invalid year")
+    }
+    let d = new Date(year +"/"+ month +"/"+ date);
+    let bornDay = d.getDay()
+    let  akan = "";
 
-    
+    if (gender === "male") {
+        akan = nameOfMales[bornDay];
+    } else {
+        akan = nameOfFemales[bornDay];
+    }
+    alert("You were born on  " + nameOfDays[bornDay] + " and your akan name is " + akan); {
+    }
+
 }
