@@ -1,3 +1,6 @@
+body{
+    background-color: aquamarine;
+}
 .footer {
     left: 0;
     bottom: 0;
@@ -9,4 +12,6 @@
 }
 img {
     border-radius: 0.5cm;
+    height: 550px;
+    width: 550px;
 }
